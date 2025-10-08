@@ -1,7 +1,6 @@
 # EX-26-AREA-OF-RECTANGLE-USING- POINTER
 ## AIM
 To write a C Program to find area of rectangle using pointer.
-
 ## ALGORITHM
 1.	Start the program.
 2.	Read two numbers.
